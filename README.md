@@ -1,2 +1,2 @@
 # Coffee-Bot
-A Rule-based chatbot built using Python. 
+A simple Rule-based chatbot built using Python. 
